@@ -16,7 +16,8 @@ Enter the code from the captcha and proceed.
 On start the bot will list all your friends which are online and their Epic-IDs.
 Friend name: MyBestFriend, Epic-ID: abcdef0123456789abcdef0123456789
 
-To whisper you need to use the following format: "epic-id:message". For example:
+To whisper you need to use the following format: "epic-id:message".
+For example:
 epic-id:message\abcdef0123456789abcdef0123456789:hello world
 
 If you recieve a message it will look like this:
