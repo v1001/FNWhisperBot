@@ -1,0 +1,5 @@
+{
+    "auth_filename": "device_auths.json",
+    "friend_accept": true,
+    "invite_accept": false
+}
